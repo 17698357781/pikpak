@@ -85,7 +85,6 @@ def r(e, t):
 def i(e):
     return int(e.split(",")[0])
 
-
 def o(e):
     return int(e.split(",")[1])
 
